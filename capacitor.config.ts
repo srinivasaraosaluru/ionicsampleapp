@@ -5,6 +5,13 @@ const config: CapacitorConfig = {
   appName: 'ContactsList',
   webDir: 'www',
   bundledWebRuntime: false
+  // plugins: {
+  //   Emarsys: {
+  //     mobileEngageApplicationCode: 'EMSD5-99166',
+  //     merchantId: '1F634D68EE4C9C7A',
+  //     consoleLogLevels: ['info']
+  //   }
+  // }
 };
 
 export default config;
